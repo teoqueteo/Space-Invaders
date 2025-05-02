@@ -1,0 +1,14 @@
+{
+    "volume": 0.5,
+    "vhs_mode": true,
+    "controls_player_1": {
+        "shoot": "UP",
+        "left": "LEFT",
+        "right": "RIGHT"
+    },
+    "controls_player_2": {
+        "shoot": "W",
+        "left": "A",
+        "right": "D"
+    }
+}
